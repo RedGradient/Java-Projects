@@ -1,5 +1,5 @@
 # Java Projects
-List of my Java projects with links and description.
+List of my Java projects with links, description and used stack.
 
 
 ## [Task Manager](https://github.com/RedGradient/java-project-73) [in progress]
