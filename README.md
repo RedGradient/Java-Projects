@@ -2,13 +2,14 @@
 List of my Java projects with links, description and used stack.
 
 
-## [Task Manager](https://github.com/RedGradient/java-project-73) [in progress]
+## [Task Manager](https://github.com/RedGradient/java-project-73)
 [![Actions Status](https://github.com/RedGradient/java-project-73/workflows/build/badge.svg)](https://github.com/RedGradient/java-project-73/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8f409cc6c1037e108bed/maintainability)](https://codeclimate.com/github/RedGradient/java-project-73/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/8f409cc6c1037e108bed/test_coverage)](https://codeclimate.com/github/RedGradient/java-project-73/test_coverage)
 
 Task Manager is the web app that allows to perform management over tasks, assign them to different performers and track it's implementation.
 
+*Stack: Spring Boot 3, Hibernate ORM, PostgreSQL, Jacoco, JUnit 5, Github CI*
 
 ## [Page Analyzer](https://github.com/RedGradient/java-project-72)
 [![Actions Status](https://github.com/RedGradient/java-project-72/workflows/build/badge.svg)](https://github.com/RedGradient/java-project-72/actions)
